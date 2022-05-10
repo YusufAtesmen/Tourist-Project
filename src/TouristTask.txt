@@ -1,0 +1,34 @@
+-A Please English but task
+Havaalanından otele transfer hizmeti
+
+kültür etkinliklere bilet sunma,
+
+YENİCE TURİZM
+Bu bir acenta firmasinin programidir
+kullanici hangi oteli secerse secsin anlasmali firmalarimizdan sunulacak hizmetler
+ arac kiralama ve otel hizmetleri(otele gore aktivite)
+ AKTIVITE
+ tum hizmetlerin pojo classlari en dolu hali ile hazirlanip musterinin sectigi otele gore getter yapilacak
+ her islem bir zaman aralıgında olacak ve konsola yazdırılacak
+-B otel cesitleri
+yildiz arttikca oda ve otel ozellikleri arttir
+ 1- yıldız
+   - otel(yatak parasi) arac kiralama
+ 2- yıldız
+  - otel(oda parasi) arac kiralama
+ 3- yıldız
+  - otel(oda parasi) arac kiralama ve aktivite
+ 4- yıldız
+  - otel(otel hizmetleri) arac kiralama ve aktivite
+ 5- yıldız
+  - otel(otel hizmetleri) arac kiralama ve aktivite
+
+tek oda tek aktivite ilk birlestirme icin yeterli olacaktır
+en hızlı sekilde bitirmeye calisalim bitirdikten sonra cesitlendiririz
+
+
+
+
+
+
+

@@ -3,6 +3,7 @@ package Hotel;
 import static Hotel.HotelRoomsObjectClass.musteriOdaBilgisi;
 
 public class Runner extends HotelOperations{
+
     static HotelOperations veriGirisi1 = new HotelOperations();
     static HotelRoomsObjectClass veriGirisi = new HotelRoomsObjectClass();
 
